@@ -1,0 +1,9 @@
+
+
+[alt text](https://github.com/Aartithakur-Sudo/HackerRank-SQL/blob/main/1.png?raw=true)
+
+Solution - SELECT NAME 
+FROM CITY
+ WHERE COUNTRYCODE = 'USA' AND POPULATION > 120000;
+
+
